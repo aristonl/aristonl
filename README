@@ -12,6 +12,52 @@ called Inferno. I'm also currently developing many programs that will go along
 with the operating system such as a text editor, C compiler, custom 'make'
 implementation, and a new version control system.
 
+INFERNO
+_______
+
+	Inferno is an AMD64-based kernel built in C++ with UNIX/POSIX compliance
+	in mind. Inferno also plans to support ARM64 in the future (mainly for
+	Apple Silicon usage). Inferno is meant to work in tandem with Hydra, the
+	operating system. Hydra/Inferno is meant to act as an alternative to 
+	most other operating systems, with a main focus on modern systems.
+
+	https://github.com/N11Software/hydra
+
+LINK
+____
+	
+	Link is a web server library that is meant to be fast and easy to use.
+	Think __ExpressJS__ but for C++. Link is mainly developed by Levi Hicks
+	and can be found also at N11 Software. You can find an example
+	project/website built with Link on GitHub at aristonl/linkproj.git.
+
+	https://github.com/N11Software/link
+
+GITSERV
+_______
+
+	"gitserv" is meant to be a secure, easy-to-use, and fast way to make a
+	fully functional git server. Nowadays we have things like GitHub, GitLab
+	but these don't really represent what Git was originally meant for,
+	patches and mailing lists. gitserv is meant to deal with all of these
+	things for you without you having to do much but having the ease-of-mind
+	that you're secured.
+
+	https://github.com/aristonl/gitserv
+
+NEON
+____
+
+	"neon" is a version control system built (mainly) as a side project but
+	also as the __future__ source control management tool used at N11. 
+	"neon" is purely focused on using "patches" and combines the best of
+	a centralised VCS like CVS/RCS and a distributed VCS like Git.
+
+	ftp://(or https://)ftp.ariston.dev/pub/neon/releases/ (Release tarballs)
+	ftp://(or https://)ftp.ariston.dev/pub/neon/devel/neon/ (Development)
+	__NOTE!__ the ftp server (as of 03/11/2023) is down. Contact me directly
+	to get access to neon.
+
 CONTACT
 
 	Email: me ariston dev

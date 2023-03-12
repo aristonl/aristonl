@@ -51,7 +51,8 @@ ____
 	"neon" is a version control system built (mainly) as a side project but
 	also as the __future__ source control management tool used at N11. 
 	"neon" is purely focused on using "patches" and combines the best of
-	a centralised VCS like CVS/RCS and a distributed VCS like Git.
+	a centralised VCS like CVS/RCS and a distributed VCS like Git. As of
+	03/12/2023, neon is self hosting and is managing it's source code.
 
 	ftp://(or https://)ftp.ariston.dev/pub/neon/releases/ (Release tarballs)
 	ftp://(or https://)ftp.ariston.dev/pub/neon/devel/neon/ (Development)

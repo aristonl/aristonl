@@ -6,75 +6,17 @@
 BIO
 ___
 
-I'm Ariston Lorenzo, a 15y/o ex-programmer, photographer, director, and director of
-photography (cinematographer) from Washington, DC. I started a group along with Levi
-Hicks (fire/firelscar) called N11, used as a group to work on our projects that we both
-came up with. I have left N11 as of 2024-1-1 but will occasionally work on some projects
-as needed. I was also a founder of OVREXP, a media production group alongside Lukas
-Richardson and Jaxon Wurtz. I have since left alongside Jaxon Wurtz to work as a separate
-production group.
-
-Most of these projects are inactive as of 10/25/2023, but you may see the random
-commit from me at some point.
-
-INFERNO
-_______
-
-	Inferno is an AMD64-based kernel built in C++ with UNIX/POSIX compliance
-	in mind. Inferno also plans to support ARM64 in the future (mainly for
-	Apple Silicon usage). Inferno is meant to work in tandem with Hydra, the
-	operating system. Hydra/Inferno is meant to act as an alternative to 
-	most other operating systems, with a main focus on modern systems.
-
-	https://github.com/N11Software/hydra
-	https://github.com/aristonl/hydra
-
-LINK
-____
-	
-	Link is a web server library that is meant to be fast and easy to use.
-	Think __ExpressJS__ but for C++. Link is mainly developed by Levi Hicks
-	and can be found also at N11 Software. You can find an example
-	project/website built with Link on GitHub at aristonl/linkproj.git.
-
-	https://sr.ht/~aristonl/link
-
-GITSERV
-_______
-
-	"gitserv" is meant to be a secure, easy-to-use, and fast way to make a
-	fully functional git server. Nowadays we have things like GitHub, GitLab
-	but these don't really represent what Git was originally meant for,
-	patches and mailing lists. gitserv is meant to deal with all of these
-	things for you without you having to do much but having the ease-of-mind
-	that you're secured.
-
-	https://github.com/aristonl/gitserv
-
-NEON
-____
-
-	"neon" is a version control system built (mainly) as a side project but
-	also as the __future__ source control management tool used at N11. 
-	"neon" is purely focused on using "patches" and combines the best of
-	a centralised VCS like CVS/RCS and a distributed VCS like Git.
-
-	https://github.com/aristonl/sccs-neon
+	I'm Ariston (aris) Lorenzo, a 16y/o cinematographer, photographer,
+	musician, and ex-programmer from DC. I was a founder of N11 back in
+	2018 alongside Levi Freisleben, I have since (unofficially) left the
+	group. I currently work a cinematographer, director, and photographer
+	for OVREXP. A media production company based in Washington, DC.
 
 CONTACT
 _______
 
-	Email: me ariston dev
-	Email: 4tl0renz0 gmail com
-	Discord: ariston#4189
+	Email: behindhiscam gmail com
+	Email: lnotsira gmail com
+	Work Email: aristonl ovrexp com
 	Work Phone: 202 618 1467
-
-COPYRIGHT
-_________
-
-	Most of my stuff is licensed under the BSD 3 Clause, (with the exception
-	of Hydra/Inferno which is under it's own license). Optionally, my projects
-	can be distributed under the GPL v1 and/or the GPL v2.
-
-	Copyright (c) Ariston Lorenzo. All rights reserved.
 
